@@ -19341,5 +19341,12 @@ Entries:
   id: 167910
   time: '2026-09-06T15:34:31.000000+00:00'
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: RubiconLocked
+  changes:
+  - message: Drozd Type-S is now visible when held/wielded.
+    type: Fix
+  id: 170000
+  time: '2026-09-06T15:40:28.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1700
 Order: -1
 
