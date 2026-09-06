@@ -19263,5 +19263,83 @@ Entries:
   id: 169700
   time: '2026-09-06T14:48:18.000000+00:00'
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1697
+- author: Vonte
+  changes:
+  - message: 'renamed several weapons to improve identifiability, listed below as:  before
+      > after'
+    type: Tweak
+  id: 167900
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: IFV-50 > Hannibal
+    type: Tweak
+  id: 167901
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: M500 > custom
+    type: Tweak
+  id: 167902
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: Kammerer Citadel > Citadel
+    type: Tweak
+  id: 167903
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: Kammerer 5001 > Klauser
+    type: Tweak
+  id: 167904
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: P2-91 > Sparv
+    type: Tweak
+  id: 167905
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: Civilian Lever-Action > Swordfish Lever-Action
+    type: Tweak
+  id: 167906
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: Combat Shotgun > FITZ-21
+    type: Tweak
+  id: 167907
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: Echis > Viper ROW
+    type: Tweak
+  id: 167908
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: L6C ROW > L6C MOW
+    type: Tweak
+  id: 167909
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
+- author: Vonte
+  changes:
+  - message: changed several descriptions to replace old ammo names with the new ones.
+    type: Fix
+  id: 167910
+  time: '2026-09-06T15:34:31.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1679
 Order: -1
 
