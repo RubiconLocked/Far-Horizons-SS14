@@ -19256,5 +19256,12 @@ Entries:
   id: 169600
   time: '2026-09-06T01:54:11.000000+00:00'
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1696
+- author: Mizuki
+  changes:
+  - message: ProtoCyclops now have their armor
+    type: Fix
+  id: 169700
+  time: '2026-09-06T14:48:18.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1697
 Order: -1
 
