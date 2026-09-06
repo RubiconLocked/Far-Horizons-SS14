@@ -197,9 +197,9 @@
         - state: mag-0
           map: ["enum.GunVisualLayers.Mag"]
     - type: Clothing
-      sprite: _FarHorizons/Objects/Weapons/Guns/Rifles/NS_Drozd/ns_drozd_x32.rsi
+      sprite: _FarHorizons/Objects/Weapons/Guns/SMGs/NS_Drozd/ns_drozd_x32.rsi
     - type: Item
-      sprite: _FarHorizons/Objects/Weapons/Guns/Rifles/NS_Lecter/ns_drozd_x32.rsi
+      sprite: _FarHorizons/Objects/Weapons/Guns/SMGs/NS_Drozd/ns_drozd_x32.rsi
     - type: Wieldable
       unwieldOnUse: false
     - type: GunWieldBonus # 1-5 Deviation / Long Barrel & Heavy Stock/Grip
