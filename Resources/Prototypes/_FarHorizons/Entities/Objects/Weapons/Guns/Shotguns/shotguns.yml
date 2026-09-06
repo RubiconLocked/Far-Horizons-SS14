@@ -9,7 +9,7 @@
   name: Citadel
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseSecurityContraband]
   id: WeaponShotgunCitadel
-  description: An old faithful design refurbished for modern applications, and a personal favorite amongst many Corporate Security forces. Uses .50 Shotgun Shells.
+  description: An old faithful design refurbished for modern applications, and a personal favorite amongst many Corporate Security forces. Uses 12 gauge shotgun shells.
   components:
   - type: Item
     sprite: _FarHorizons/Objects/Weapons/Guns/Shotguns/Citadel/inhands_64x.rsi
@@ -130,7 +130,7 @@
   name: Sentinel
   parent: [BaseWeaponShotgunAny, BaseGunWieldable, BaseSecurityContraband]
   id: WeaponShotgunSentinel
-  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads .50 shotgun shells.
+  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads 12 gauge shotgun shells.
   components:
   - type: Sprite
     sprite: _FarHorizons/Objects/Weapons/Guns/Shotguns/Sentinel/clothing.rsi
@@ -228,7 +228,7 @@
   name: Citadel-T
   parent: [WeaponShotgunCitadel]
   id: WeaponShotgunCitadelT
-  description: An old faithful design refurbished for modern applications given a holographic sight with status LEDs, and is a personal favorite amongst many NanoTransen Security forces. Uses .50 Shotgun Shells.
+  description: An old faithful design refurbished for modern applications given a holographic sight with status LEDs, and is a personal favorite amongst many NanoTransen Security forces. Uses 12 gauge shotgun shells.
   suffix: NT  
   components:
   - type: Item
@@ -347,7 +347,7 @@
   name: Sentinel Type-T
   parent: [WeaponShotgunSentinel]
   id: WeaponShotgunSentinelT
-  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads .50 shotgun shells. Has been attached with a Holographic Sight, Status LEDs and angled foregrip.
+  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads 12 gauge shotgun shells. Has been attached with a Holographic Sight, Status LEDs and angled foregrip.
   components:
   - type: Sprite
     sprite: _FarHorizons/Objects/Weapons/Guns/Shotguns/Sentinel_T/clothing.rsi
@@ -406,7 +406,7 @@
   name: Citadel-S
   parent: [WeaponShotgunCitadel]
   id: WeaponShotgunCitadelS
-  description: An old faithful design refurbished for modern applications given a red dot sight, longer stock and shotgun choke, and is a personal favorite amongst many NeoSol Security forces. Uses .50 Shotgun Shells.
+  description: An old faithful design refurbished for modern applications given a red dot sight, longer stock and shotgun choke, and is a personal favorite amongst many NeoSol Security forces. Uses 12 gauge shotgun shells.
   suffix: NS
   components:
   - type: Item
@@ -555,7 +555,7 @@
   name: Sentinel Type-S
   parent: [WeaponShotgunSentinel]
   id: WeaponShotgunSentinelS
-  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads .50 shotgun shells. Has been converted into a heavy shotgun, yet still has the bolting mechanism.
+  description: An odd magazine-fed pump action shotgun that is the result of a regulatory compromise. Fires as fast as you can pump it, loads 12 gauge shotgun shells. Has been converted into a heavy shotgun, yet still has the bolting mechanism.
   components:
   - type: Sprite
     sprite: _FarHorizons/Objects/Weapons/Guns/Shotguns/Sentinel_S/sprite_64x32.rsi

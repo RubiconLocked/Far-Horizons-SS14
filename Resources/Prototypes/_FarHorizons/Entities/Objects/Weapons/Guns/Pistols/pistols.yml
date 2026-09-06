@@ -709,7 +709,7 @@
   name: Civilian MK-T
   parent: [BaseWeaponPistol, FlashlightLantern]
   id: WeaponPistolMKTCivilian
-  description: A modified MK 57 designed for civilian use. It has been modifed to only accept civilian 9mm magazines, and to have a slower fire-rate.
+  description: A modified MK-T designed for civilian use. It has been modifed to only accept civilian 9mm magazines, and to have a slower fire-rate.
   suffix: NT
   components:
   - type: Sprite
@@ -789,7 +789,7 @@
   name: Civilian MK-S
   parent: [BaseWeaponPistol]
   id: WeaponPistolMKSCivilian
-  description:  A modified MK 57 designed for civilian use. It has been modifed to only accept civilian 9mm magazines, and to have a slower fire-rate.
+  description:  A modified MK-S designed for civilian use. It has been modifed to only accept civilian 9mm magazines, and to have a slower fire-rate.
   suffix: NS
   components:
   - type: Sprite

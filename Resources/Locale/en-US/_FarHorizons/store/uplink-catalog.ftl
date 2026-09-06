@@ -79,4 +79,4 @@ uplink-ifa30-arms-desc = A modern IFA-30 SMG for mobile operations integrated in
 uplink-knives-kit-name-fh = Throwing Knives Kit
 uplink-knives-kit-desc-fh = A set of 8 throwing knives, perfect for embedding into the body of your victims. Capable of ignoring armor entirely when thrown.
 
-uplink-hushpup-desc-fh = A powerful silenced shotgun with a low magazine capacity. Uses .50 shotgun ammo. Comes with an Ammo Selector.
+uplink-hushpup-desc-fh = A powerful silenced shotgun with a low magazine capacity. Uses 12 gauge shotgun ammo. Comes with an Ammo Selector.
