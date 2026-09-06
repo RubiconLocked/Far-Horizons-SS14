@@ -19248,5 +19248,13 @@ Entries:
   id: 169100
   time: '2026-09-05T14:55:47.000000+00:00'
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1691
+- author: KarusKardin
+  changes:
+  - message: Added an automated radio message for when a prisoner is released from
+      genpop
+    type: Add
+  id: 169600
+  time: '2026-09-06T01:54:11.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1696
 Order: -1
 
